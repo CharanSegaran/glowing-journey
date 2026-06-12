@@ -5,6 +5,7 @@ Encoder-Decoder FullStack React-SpringBoot Application
 #Tech Stack
 
 Backend: SpringBoot with Java17
+
 Frontend: React
 
 ##To run frontend
